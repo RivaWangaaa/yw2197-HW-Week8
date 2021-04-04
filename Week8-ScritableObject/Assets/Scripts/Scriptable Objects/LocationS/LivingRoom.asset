@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fde7b2654c91e4da87a627d8962cfd, type: 3}
+  m_Name: LivingRoom
+  m_EditorClassIdentifier: 
+  locationName: Living Room
+  description: "Livingroom: You're a furry black monster with one huge purple eye.
+    You're in the living room of a 6-year-old, Kim. Try your best to catch him. That's
+    what monsters do, isn't it? You hear a feebly CREAKING SOUND from your west,
+    a regular DRIP, DRIP, DRIP\u2026 coming from east, and a continuous CLANGING
+    SOUND from the south. "
+  locationNorth: {fileID: 11400000, guid: 5206e7b59a4f4b849a0f7b9b73e86fcc, type: 2}
+  locationSouth: {fileID: 11400000, guid: e4d78904738531c43be934f535d0f56a, type: 2}
+  locationEast: {fileID: 11400000, guid: f13a601ed3cd69d43825776b2ecd0fbb, type: 2}
+  locationWest: {fileID: 11400000, guid: c48bc13806ab3504097823125ae86f8f, type: 2}

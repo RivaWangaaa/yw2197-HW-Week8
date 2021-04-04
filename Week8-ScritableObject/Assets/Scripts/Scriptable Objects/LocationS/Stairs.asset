@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fde7b2654c91e4da87a627d8962cfd, type: 3}
+  m_Name: Stairs
+  m_EditorClassIdentifier: 
+  locationName: Stairs
+  description: 'The old wooden stairs creak when you step on it. '
+  locationNorth: {fileID: 11400000, guid: f0144fb726a1c5b4497d74c4e1a06c70, type: 2}
+  locationSouth: {fileID: 11400000, guid: 90d971a868bd5ab4a97193240b5b995d, type: 2}
+  locationEast: {fileID: 11400000, guid: 4c4d4be02ba99194dbc4f1759b840dae, type: 2}
+  locationWest: {fileID: 11400000, guid: 2f65fb3dbc4eb99478eb321f2ebcd94f, type: 2}

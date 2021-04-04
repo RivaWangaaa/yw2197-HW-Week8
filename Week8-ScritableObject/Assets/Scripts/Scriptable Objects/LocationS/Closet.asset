@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fde7b2654c91e4da87a627d8962cfd, type: 3}
+  m_Name: Closet
+  m_EditorClassIdentifier: 
+  locationName: Closet
+  description: 'Narrow and empty. '
+  locationNorth: {fileID: 0}
+  locationSouth: {fileID: 11400000, guid: c48bc13806ab3504097823125ae86f8f, type: 2}
+  locationEast: {fileID: 0}
+  locationWest: {fileID: 0}
